@@ -12,7 +12,11 @@ excerpt: A selection of frequently asked questions about RCS, devices and the Si
 
 While in Android Messages, you can select the 3 dots in the upper right side of the messages (thread) screen, then select "Settings", then "Advanced" and "Enhanced Features". You can see if RCS is toggled on or off. 
 
-If you do not see those options to enable enhanced features, then you do not have RCS capabilities.
+If you cannot find the "Enhanced Features" than Tap Chat features in Settings.
+  If the Enable chat features toggle is turned off, turn it on by tapping it once.
+  If the Enable chat features toggle is already on, you’re all set!
+  
+If you do not see these options, then you do not have RCS capabilities.
 
 ## How do I enable RCS for Android Messages?
 The instructions below will prepare your device for RCS and to allow you to receive test messages from Sinch via the Google RCS Business Messaging service.
